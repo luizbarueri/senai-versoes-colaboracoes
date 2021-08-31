@@ -1,0 +1,1 @@
+documento a ser ignorado...OBS o arquivo não pode estar vazio.

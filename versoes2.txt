@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 Praticando 2!
+=======
+<html>
+<head>
+<title>Aula 1</title>
+</head>
+<body>
+  <h1>Novo texto</h1>
+  Luiz
+<body>
+</html>
+>>>>>>> c0ad841a03bbf8c97c67517bda9282769f20b810
