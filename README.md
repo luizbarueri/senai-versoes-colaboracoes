@@ -1,5 +1,5 @@
 # senai-versoes-colaboracoes
-Curso programador Fron-End SENAI/Barueri
+*Curso Programador Web - SENAI/Barueri* :heavy_check_mark:
 
 ### comandos no terminal GitBash :computer:
 
@@ -13,6 +13,9 @@ Curso programador Fron-End SENAI/Barueri
 - git commit -m "mensagem do commit"
 - git push   
 
-Foto:
+------
 
-![](C:\Users\luizb\Documents\senai-versoes-colaboracoes\imagens\Senai-Barueri.jpg)
+**Luiz Amaro** 2021
+
+
+
